@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-this's mu first time to got thewre!
+this's my first time to get there!
